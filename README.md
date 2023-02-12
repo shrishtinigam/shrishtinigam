@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @shrishtinigam
-- 👀 I’m interested in ML, Web Dev, Computer Vision
-- 🌱 I’m currently working on ReactJS, Leetcode 
+- 👀 I’m interested in ML, Web Dev, NLP
+- 🌱 I’m currently learning and working on on Node.js, Leetcode, NLP with TensorFlow and HuggingFace
 - 💞️ I’m looking for people interested in Leetcode
-- 📫 Reach me on mehershrishti2@gmail.com
+- 📫 Reach me on mehershrishtinigam@gmail.com
 
 <!---
 shrishtinigam/shrishtinigam is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
