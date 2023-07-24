@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @shrishtinigam
 - 👀 I’m interested in ML, Web Dev, NLP
 - 🌱 I’m currently learning and working on on Node.js, Leetcode, NLP with TensorFlow and HuggingFace
-- 💞️ I’m looking for people interested in Leetcode
+- 💞️ I’m looking for people interested in natuaral language processing.
 - 📫 Reach me on mehershrishtinigam@gmail.com
 
 <!---
