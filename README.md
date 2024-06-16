@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shrishtinigam
 - 👀 I’m interested in distributed systems and large language models
-- 🌱 I’m currently learning and working on on mastering TensorFlow
+- 🌱 I’m currently learning and working on mastering TensorFlow
 - 💞️ I’m looking for people interested in LLM's and cloud computing
 - 📫 Reach me on mehershrishtinigam@gmail.com
 
